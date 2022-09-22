@@ -11,9 +11,9 @@
 
 👤 **Akasha "Sedeqi"**
 
-- GitHub: [@AkashaSedeqi](https://github.com/ZuhRa-HashiMi)
-- Twitter: [@4k4sh4](https://twitter.com/ZuhraHashimi4)
-- LinkedIn: [Khwaja Akasha Sedeqi](https://www.linkedin.com/in/zuhra-hashimi-601966214/)
+- GitHub: [@AkashaSedeqi](https://github.com/AkashaSedeqi)
+- Twitter: [@4K4sh4](https://twitter.com/4k4sh4)
+- LinkedIn: [Khwaja Akasha Sedeqi](https://www.linkedin.com/in/khwaja-akasha-sedeqi-b71855241/)
 
 ## 📝 License
 
